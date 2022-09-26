@@ -1,26 +1,6 @@
 /*
-    ACADEMIC INTEGRITY PLEDGE
-- I have not used source code obtained from another
-student nor any other unauthorized source, either
-modified or unmodified.
-
-- All source code and documentation used in my program
-is either my original work or was derived by me from
-the source code published in the textbook for this
-course or presented in class.
-
-- I have not discussed coding details about this project
-with anyone other than my instructor. I understand
-that I may discuss the concepts of this program with
-other students and that another student may help me
-debug my program so long as neither of us writes
-anything during the discussion or modifies any
-computer file during the discussion.
-
-- I have violated neither the spirit nor letter of these
-restrictions.
-
-Signed: Suman Khadka Date:9/15/2022
+*******************************************************************************************************************************
+  Signed: Suman Khadka Date:9/15/2022
 COPYRIGHT (C) 2022 (Suman Khadka). All Rights Reserved.
 
 (From June 25-July 1, 1862, the Civil War and the attention of two nations focused on the area near
@@ -29,10 +9,9 @@ Lee drove back General George B. McClellan's Union forces and thwarted the North
 capture the Confederate capital of Richmond, Va. McClellan was forced to retreat from a position 4
 miles (6 km) east of the Confederate capital to a new base of operations at Harrison's Landing on the
 James River.
-The purpose of this assignment is to create a (very) simple simulation which re-enacts the Battle of
-Seven Days using coin flip)
 author (Suman Khadka)
 version 1.01 (9/15/2022)
+****************************************************************************************************************************
 */
 
 
@@ -162,7 +141,7 @@ int main(){
     cout<<"So far: McClellan "<<myScore<<" victories,\nLee "<<compScore<<"\n"<<endl;   //summary of the action. It is like scoreboard
 
       }
-       //if the human’s score is greater than the computer’s, print the following
+       //if the humanâ€™s score is greater than the computerâ€™s, print the following
          if (myScore > compScore){
             cout<<"\nThe results show that\n"
                     "George B. McClellan won the\n"
