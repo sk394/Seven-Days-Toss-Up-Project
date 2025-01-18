@@ -1,9 +1,9 @@
-# Seven-Days-Toss-Up-Project-C-
+# 7 Days Toss Up Project in C++
 Purpose is to create a (very) simple simulation which re-enacts the Battle of Seven Days using coin flips.
 
 
 
-# PseudoCode-C++
+# PseudoCode
 1) Declare variables
 2) Print the beginning title and instructions
 3) use for loop along with switch to print the battle title
